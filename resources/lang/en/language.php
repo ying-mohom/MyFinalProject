@@ -1,8 +1,8 @@
 <?php
 
 return [
-    
-    
+
+
         /*
         |--------------------------------------------------------------------------
         |  Language Lines
@@ -13,7 +13,7 @@ return [
         | these language lines according to your application's requirements.
         |
         */
-    
+
         'register' => 'Register',
         'list'     => 'List',
         'language' => 'Language',
@@ -36,7 +36,7 @@ return [
         'excel download' => 'Excel Download',
         'pdf download'   => 'PDF Download',
         'active inactive'  => 'Active/Inactive',
-        'there is no item' => 'There is No Item',
+        'there is no item' => 'No Data Available in List!',
         'total rows'       => 'Total Rows',
         'register form'    => 'Register Form',
          'normal register'   => 'Normal Register',
@@ -58,6 +58,6 @@ return [
          "item_update" => "Item Update Form",
          "update" => "Update",
          "register excel" => 'Excel Register Form',
-     
-    
+
+
 ];
